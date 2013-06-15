@@ -1,0 +1,5966 @@
+# Translation of OpenERP Server.
+# This file contains the translation of the following modules:
+#	* cth
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenERP Server 7.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-15 02:25+0000\n"
+"PO-Revision-Date: 2013-06-15 02:25+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_636
+msgid "เชียงคาน"
+msgstr "เชียงคาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_876
+msgid "พิบูลย์รักษ์"
+msgstr "พิบูลย์รักษ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_753
+msgid "วังสมบูรณ์"
+msgstr "วังสมบูรณ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_782
+msgid "เมืองสุพรรณบุรี"
+msgstr "เมืองสุพรรณบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_658
+msgid "วังเหนือ"
+msgstr "วังเหนือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_363
+msgid "รือเสาะ"
+msgstr "รือเสาะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_243
+msgid "เกาะช้าง"
+msgstr "เกาะช้าง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_20
+msgid "นครพนม"
+msgstr "นครพนม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_292
+msgid "โนนไทย"
+msgstr "โนนไทย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_635
+msgid "เมืองเลย"
+msgstr "เมืองเลย"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_67
+msgid "สุราษฎร์ธานี"
+msgstr "สุราษฎร์ธานี"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_75
+msgid "อุทัยธานี"
+msgstr "อุทัยธานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_669
+msgid "เวียงหนองล่อง"
+msgstr "เวียงหนองล่อง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_132
+msgid "มะขาม"
+msgstr "มะขาม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_806
+msgid "พนม"
+msgstr "พนม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_162
+msgid "สรรพยา"
+msgstr "สรรพยา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_314
+msgid "ขนอม"
+msgstr "ขนอม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_577
+msgid "บันนังสตา"
+msgstr "บันนังสตา"
+
+#. module: cth
+#: view:res.partner:0
+msgid "District.."
+msgstr "อำเภอ.."
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_204
+msgid "พญาเม็งราย"
+msgstr "พญาเม็งราย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_849
+msgid "สุวรรณคูหา"
+msgstr "สุวรรณคูหา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_846
+msgid "นากลาง"
+msgstr "นากลาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_581
+msgid "เมืองร้อยเอ็ด"
+msgstr "เมืองร้อยเอ็ด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_475
+msgid "เมืองพัทลุง"
+msgstr "เมืองพัทลุง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_52
+msgid "เลย"
+msgstr "เลย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_905
+msgid "เขื่องใน"
+msgstr "เขื่องใน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_861
+msgid "พนา"
+msgstr "พนา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_779
+msgid "ศรีสัชนาลัย"
+msgstr "ศรีสัชนาลัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_807
+msgid "พระแสง"
+msgstr "พระแสง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_140
+msgid "บ้านโพธิ์"
+msgstr "บ้านโพธิ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_233
+msgid "กันตัง"
+msgstr "กันตัง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_17
+msgid "ตาก"
+msgstr "ตาก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_704
+msgid "โคกศรีสุพรรณ"
+msgstr "โคกศรีสุพรรณ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_679
+msgid "ปรางค์กู่"
+msgstr "ปรางค์กู่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_14
+msgid "ดอนเมือง"
+msgstr "ดอนเมือง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_321
+msgid "พระพรหม"
+msgstr "พระพรหม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_743
+msgid "กระทุ่มแบน"
+msgstr "กระทุ่มแบน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_410
+msgid "ธัญบุรี"
+msgstr "ธัญบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_770
+msgid "บางระจัน"
+msgstr "บางระจัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_617
+msgid "บางแพ"
+msgstr "บางแพ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_534
+msgid "เมืองภูเก็ต"
+msgstr "เมืองภูเก็ต"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_156
+msgid "หนองใหญ่"
+msgstr "หนองใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_680
+msgid "พยุห์"
+msgstr "พยุห์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_498
+msgid "เมืองพิษณุโลก"
+msgstr "เมืองพิษณุโลก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_619
+msgid "ปากท่อ"
+msgstr "ปากท่อ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_88
+msgid "ดอนจาน"
+msgstr "ดอนจาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_380
+msgid "สันติสุข"
+msgstr "สันติสุข"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_434
+msgid "ปะนาเระ"
+msgstr "ปะนาเระ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_275
+msgid "ปลาปาก"
+msgstr "ปลาปาก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_442
+#: model:cth.province,name:cth.cth_province_32
+msgid "พระนครศรีอยุธยา"
+msgstr "พระนครศรีอยุธยา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_257
+msgid "วังเจ้า"
+msgstr "วังเจ้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_632
+msgid "ลำสนธิ"
+msgstr "ลำสนธิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_40
+msgid "สาทร"
+msgstr "สาทร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_26
+msgid "บึงกุ่ม"
+msgstr "บึงกุ่ม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_461
+msgid "เชียงม่วน"
+msgstr "เชียงม่วน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_826
+msgid "เขวาสินรินทร์"
+msgstr "เขวาสินรินทร์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_187
+msgid "ละแม"
+msgstr "ละแม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_595
+msgid "สุวรรณภูมิ"
+msgstr "สุวรรณภูมิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_3
+msgid "เขาพนม"
+msgstr "เขาพนม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_731
+msgid "ละงู"
+msgstr "ละงู"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_320
+msgid "ทุ่งสง"
+msgstr "ทุ่งสง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_419
+msgid "บางสะพานน้อย"
+msgstr "บางสะพานน้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_297
+msgid "ปักธงชัย"
+msgstr "ปักธงชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_30
+msgid "พญาไท"
+msgstr "พญาไท"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_607
+msgid "แกลง"
+msgstr "แกลง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_868
+msgid "กุมภวาปี"
+msgstr "กุมภวาปี"
+
+#. module: cth
+#: model:ir.model,name:cth.model_res_partner
+msgid "Partner"
+msgstr "Partner"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_289
+msgid "โชคชัย"
+msgstr "โชคชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_39
+msgid "ลาดพร้าว"
+msgstr "ลาดพร้าว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_528
+msgid "ร้องกวาง"
+msgstr "ร้องกวาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_268
+msgid "สามพราน"
+msgstr "สามพราน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_90
+msgid "เมืองกำแพงเพชร"
+msgstr "เมืองกำแพงเพชร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_569
+msgid "ทรายมูล"
+msgstr "ทรายมูล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_797
+msgid "เคียนซา"
+msgstr "เคียนซา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_645
+msgid "ภูหลวง"
+msgstr "ภูหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_886
+msgid "ตรอน"
+msgstr "ตรอน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_29
+msgid "ป้อมปราบศัตรูพ่าย"
+msgstr "ป้อมปราบศัตรูพ่าย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_381
+msgid "บ่อเกลือ"
+msgstr "บ่อเกลือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_211
+msgid "ไชยปราการ"
+msgstr "ไชยปราการ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_66
+msgid "พนมทวน"
+msgstr "พนมทวน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_631
+msgid "พัฒนานิคม"
+msgstr "พัฒนานิคม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_485
+msgid "ศรีนครินทร์"
+msgstr "ศรีนครินทร์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_763
+msgid "หนองแซง"
+msgstr "หนองแซง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_454
+msgid "ลาดบัวหลวง"
+msgstr "ลาดบัวหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_791
+msgid "หนองหญ้าไซ"
+msgstr "หนองหญ้าไซ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_234
+msgid "ปะเหลียน"
+msgstr "ปะเหลียน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_111
+msgid "เปือยน้อย"
+msgstr "เปือยน้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_598
+msgid "เชียงขวัญ"
+msgstr "เชียงขวัญ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_74
+msgid "อุตรดิตถ์"
+msgstr "อุตรดิตถ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_512
+msgid "บ้านลาด"
+msgstr "บ้านลาด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_441
+msgid "แม่ลาน"
+msgstr "แม่ลาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_774
+msgid "กงไกรลาศ"
+msgstr "กงไกรลาศ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_431
+msgid "กะพ้อ"
+msgstr "กะพ้อ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_316
+msgid "ชะอวด"
+msgstr "ชะอวด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_456
+msgid "เสนา"
+msgstr "เสนา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_519
+msgid "บึงสามพัน"
+msgstr "บึงสามพัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_24
+msgid "บางพลัด"
+msgstr "บางพลัด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_288
+msgid "ชุมพวง"
+msgstr "ชุมพวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_492
+msgid "สามง่าม"
+msgstr "สามง่าม"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_4
+msgid "กาฬสินธุ์"
+msgstr "กาฬสินธุ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_371
+msgid "เชียงกลาง"
+msgstr "เชียงกลาง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_59
+msgid "สมุทรปราการ"
+msgstr "สมุทรปราการ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_158
+msgid "เมืองชัยนาท"
+msgstr "เมืองชัยนาท"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_682
+msgid "โพธิ์ศรีสุวรรณ"
+msgstr "โพธิ์ศรีสุวรรณ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_54
+msgid "บางนา"
+msgstr "บางนา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_270
+msgid "ท่าอุเทน"
+msgstr "ท่าอุเทน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_746
+msgid "เขาฉกรรจ์"
+msgstr "เขาฉกรรจ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_612
+msgid "เขาชะเมา"
+msgstr "เขาชะเมา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_525
+msgid "วังโป่ง"
+msgstr "วังโป่ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_179
+msgid "หนองบัวแดง"
+msgstr "หนองบัวแดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_230
+msgid "อมก๋อย"
+msgstr "อมก๋อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_460
+msgid "เชียงคำ"
+msgstr "เชียงคำ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_25
+msgid "นราธิวาส"
+msgstr "นราธิวาส"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_711
+msgid "กระแสสินธุ์"
+msgstr "กระแสสินธุ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_167
+msgid "เกษตรสมบูรณ์"
+msgstr "เกษตรสมบูรณ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_188
+msgid "สวี"
+msgstr "สวี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_668
+msgid "บ้านธิ"
+msgstr "บ้านธิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_648
+msgid "หนองหิน"
+msgstr "หนองหิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_467
+msgid "เมืองพังงา"
+msgstr "เมืองพังงา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_147
+msgid "เมืองชลบุรี"
+msgstr "เมืองชลบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_656
+msgid "เมืองปาน"
+msgstr "เมืองปาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_373
+msgid "ทุ่งช้าง"
+msgstr "ทุ่งช้าง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_903
+msgid "กุดข้าวปุ้น"
+msgstr "กุดข้าวปุ้น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_61
+msgid "ทองผาภูมิ"
+msgstr "ทองผาภูมิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_23
+msgid "บางซื่อ"
+msgstr "บางซื่อ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_707
+msgid "อากาศอำนวย"
+msgstr "อากาศอำนวย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_322
+msgid "นาบอน"
+msgstr "นาบอน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_718
+msgid "ระโนด"
+msgstr "ระโนด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_578
+msgid "เบตง"
+msgstr "เบตง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_34
+msgid "มีนบุรี"
+msgstr "มีนบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_673
+msgid "ขุขันธ์"
+msgstr "ขุขันธ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_411
+msgid "ลาดหลุมแก้ว"
+msgstr "ลาดหลุมแก้ว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_642
+msgid "ผาขาว"
+msgstr "ผาขาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_128
+msgid "ขลุง"
+msgstr "ขลุง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_730
+msgid "ทุ่งหว้า"
+msgstr "ทุ่งหว้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_72
+msgid "เมืองกาฬสินธุ์"
+msgstr "เมืองกาฬสินธุ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_78
+msgid "นามน"
+msgstr "นามน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_697
+msgid "เต่างอย"
+msgstr "เต่างอย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_271
+msgid "ธาตุพนม"
+msgstr "ธาตุพนม"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_48
+msgid "ระนอง"
+msgstr "ระนอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_576
+msgid "ธารโต"
+msgstr "ธารโต"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_579
+msgid "ยะหา"
+msgstr "ยะหา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_256
+msgid "อุ้มผาง"
+msgstr "อุ้มผาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_31
+msgid "พระโขนง"
+msgstr "พระโขนง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_653
+msgid "เถิน"
+msgstr "เถิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_717
+msgid "บางกล่ำ"
+msgstr "บางกล่ำ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_54
+msgid "ลำพูน"
+msgstr "ลำพูน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_184
+msgid "ทุ่งตะโก"
+msgstr "ทุ่งตะโก"
+
+#. module: cth
+#: model:ir.model,name:cth.model_cth_province
+msgid "cth.province"
+msgstr "cth.province"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_3cth_province_1
+msgid "สีคิ้ว"
+msgstr "สีคิ้ว"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_3
+msgid "กาญจนบุรี"
+msgstr "กาญจนบุรี"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_46
+msgid "ยะลา"
+msgstr "ยะลา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_859
+msgid "ชานุมาน"
+msgstr "ชานุมาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_240
+msgid "หาดสำราญ"
+msgstr "หาดสำราญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_264
+msgid "ดอนตูม"
+msgstr "ดอนตูม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_308
+msgid "พระทองคำ"
+msgstr "พระทองคำ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_329
+msgid "สิชล"
+msgstr "สิชล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_81
+msgid "สมเด็จ"
+msgstr "สมเด็จ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_553
+msgid "ดอนตาล"
+msgstr "ดอนตาล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_881
+msgid "หนองวัวซอ"
+msgstr "หนองวัวซอ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_785
+msgid "เดิมบางนางบวช"
+msgstr "เดิมบางนางบวช"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_236
+msgid "รัษฎา"
+msgstr "รัษฎา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_214
+msgid "ดอยสะเก็ด"
+msgstr "ดอยสะเก็ด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_624
+msgid "เมืองลพบุรี"
+msgstr "เมืองลพบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_575
+msgid "กรงปินัง"
+msgstr "กรงปินัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_894
+msgid "เมืองอุทัยธานี"
+msgstr "เมืองอุทัยธานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_393
+msgid "บ้านกรวด"
+msgstr "บ้านกรวด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_647
+msgid "เอราวัณ"
+msgstr "เอราวัณ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_684
+msgid "เมืองจันทร์"
+msgstr "เมืองจันทร์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_549
+msgid "ชื่นชม"
+msgstr "ชื่นชม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_313
+msgid "เมืองนครศรีธรรมราช"
+msgstr "เมืองนครศรีธรรมราช"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_95
+msgid "ไทรงาม"
+msgstr "ไทรงาม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_25
+msgid "บางรัก"
+msgstr "บางรัก"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_57
+msgid "สงขลา"
+msgstr "สงขลา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_831
+msgid "ท่าบ่อ"
+msgstr "ท่าบ่อ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_44
+msgid "แม่ฮ่องสอน"
+msgstr "แม่ฮ่องสอน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_725
+msgid "คลองหอยโข่ง"
+msgstr "คลองหอยโข่ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_451
+msgid "ผักไห่"
+msgstr "ผักไห่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_123
+msgid "อุบลรัตน์"
+msgstr "อุบลรัตน์"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_45
+msgid "ยโสธร"
+msgstr "ยโสธร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_120
+msgid "หนองสองห้อง"
+msgstr "หนองสองห้อง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_161
+msgid "สรรคบุรี"
+msgstr "สรรคบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_375
+msgid "นาหมื่น"
+msgstr "นาหมื่น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_818
+msgid "รัตนบุรี"
+msgstr "รัตนบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_198
+msgid "แม่ฟ้าหลวง"
+msgstr "แม่ฟ้าหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_417
+msgid "ทับสะแก"
+msgstr "ทับสะแก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_331
+msgid "จุฬาภรณ์"
+msgstr "จุฬาภรณ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_430
+msgid "เมืองปัตตานี"
+msgstr "เมืองปัตตานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_714
+msgid "เทพา"
+msgstr "เทพา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_898
+msgid "สว่างอารมณ์"
+msgstr "สว่างอารมณ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_146
+msgid "คลองเขื่อน"
+msgstr "คลองเขื่อน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_121
+msgid "หนองเรือ"
+msgstr "หนองเรือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_248
+msgid "เกาะกูด"
+msgstr "เกาะกูด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_705
+msgid "สว่างแดนดิน"
+msgstr "สว่างแดนดิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_906
+msgid "โขงเจียม"
+msgstr "โขงเจียม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_871
+msgid "นายูง"
+msgstr "นายูง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_494
+msgid "สากเหล็ก"
+msgstr "สากเหล็ก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_75
+msgid "เขาวง"
+msgstr "เขาวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_226
+msgid "สันทราย"
+msgstr "สันทราย"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_33
+msgid "พะเยา"
+msgstr "พะเยา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_786
+msgid "บางปลาม้า"
+msgstr "บางปลาม้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_572
+msgid "เลิงนกทา"
+msgstr "เลิงนกทา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_557
+msgid "เมืองแม่ฮ่องสอน"
+msgstr "เมืองแม่ฮ่องสอน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_765
+msgid "วังม่วง"
+msgstr "วังม่วง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_925
+msgid "น้ำขุ่น"
+msgstr "น้ำขุ่น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_148
+msgid "เกาะสีชัง"
+msgstr "เกาะสีชัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_805
+msgid "บ้านนาสาร"
+msgstr "บ้านนาสาร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_305
+msgid "หนองบุนนาก"
+msgstr "หนองบุนนาก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_290
+msgid "ด่านขุนทด"
+msgstr "ด่านขุนทด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_53
+msgid "วัฒนา"
+msgstr "วัฒนา"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_9
+msgid "ชลบุรี"
+msgstr "ชลบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_615
+msgid "จอมบึง"
+msgstr "จอมบึง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_517
+msgid "ชนแดน"
+msgstr "ชนแดน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_397
+msgid "ปะคำ"
+msgstr "ปะคำ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_69
+msgid "สังขละบุรี"
+msgstr "สังขละบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_152
+msgid "พานทอง"
+msgstr "พานทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_551
+msgid "คำชะอี"
+msgstr "คำชะอี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_606
+msgid "เมืองระยอง"
+msgstr "เมืองระยอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_253
+msgid "แม่ระมาด"
+msgstr "แม่ระมาด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_870
+msgid "ทุ่งฝน"
+msgstr "ทุ่งฝน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_432
+msgid "โคกโพธิ์"
+msgstr "โคกโพธิ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_28
+msgid "ปทุมวัน"
+msgstr "ปทุมวัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_790
+msgid "อู่ทอง"
+msgstr "อู่ทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_537
+msgid "เมืองมหาสารคาม"
+msgstr "เมืองมหาสารคาม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_671
+msgid "กันทรลักษ์"
+msgstr "กันทรลักษ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_562
+msgid "แม่สะเรียง"
+msgstr "แม่สะเรียง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_341
+msgid "ตาคลี"
+msgstr "ตาคลี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_678
+msgid "เบญจลักษณ์"
+msgstr "เบญจลักษณ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_1
+msgid "เมืองกระบี่"
+msgstr "เมืองกระบี่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_20
+msgid "บางขุนเทียน"
+msgstr "บางขุนเทียน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_795
+msgid "เกาะสมุย"
+msgstr "เกาะสมุย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_611
+msgid "วังจันทร์"
+msgstr "วังจันทร์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_614
+msgid "เมืองราชบุรี"
+msgstr "เมืองราชบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_644
+msgid "ภูเรือ"
+msgstr "ภูเรือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_208
+msgid "เมืองเชียงใหม่"
+msgstr "เมืองเชียงใหม่"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_2
+msgid "กรุงเทพมหานคร"
+msgstr "กรุงเทพมหานคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_396
+msgid "ประโคนชัย"
+msgstr "ประโคนชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_567
+msgid "คำเขื่อนแก้ว"
+msgstr "คำเขื่อนแก้ว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_58
+msgid "บางบอน"
+msgstr "บางบอน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_828
+msgid "เมืองหนองคาย"
+msgstr "เมืองหนองคาย"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_27
+msgid "บุรีรัมย์"
+msgstr "บุรีรัมย์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_768
+msgid "ค่ายบางระจัน"
+msgstr "ค่ายบางระจัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_545
+msgid "พยัคฆภูมิพิสัย"
+msgstr "พยัคฆภูมิพิสัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_608
+msgid "บ้านค่าย"
+msgstr "บ้านค่าย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_298
+msgid "ปากช่อง"
+msgstr "ปากช่อง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_808
+msgid "พุนพิน"
+msgstr "พุนพิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_428
+msgid "ประจันตคาม"
+msgstr "ประจันตคาม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_355
+msgid "บางใหญ่"
+msgstr "บางใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_418
+msgid "บางสะพาน"
+msgstr "บางสะพาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_357
+msgid "เมืองนราธิวาส"
+msgstr "เมืองนราธิวาส"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_804
+msgid "บ้านนาเดิม"
+msgstr "บ้านนาเดิม"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_65
+msgid "สุโขทัย"
+msgstr "สุโขทัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_173
+msgid "เนินสง่า"
+msgstr "เนินสง่า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_255
+msgid "สามเงา"
+msgstr "สามเงา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_189
+msgid "หลังสวน"
+msgstr "หลังสวน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_266
+msgid "บางเลน"
+msgstr "บางเลน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_134
+msgid "แหลมสิงห์"
+msgstr "แหลมสิงห์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_778
+msgid "ศรีนคร"
+msgstr "ศรีนคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_481
+msgid "ป่าบอน"
+msgstr "ป่าบอน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_450
+msgid "บ้านแพรก"
+msgstr "บ้านแพรก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_227
+msgid "สันป่าตอง"
+msgstr "สันป่าตอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_91
+msgid "ห้วยคต"
+msgstr "ห้วยคต"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_809
+msgid "วิภาวดี"
+msgstr "วิภาวดี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_655
+msgid "แม่พริก"
+msgstr "แม่พริก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_374
+msgid "นาน้อย"
+msgstr "นาน้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_376
+msgid "บ้านหลวง"
+msgstr "บ้านหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_409
+msgid "คลองหลวง"
+msgstr "คลองหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_304
+msgid "ห้วยแถลง"
+msgstr "ห้วยแถลง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_106
+msgid "ชนบท"
+msgstr "ชนบท"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_470
+msgid "คุระบุรี"
+msgstr "คุระบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_524
+msgid "หล่มสัก"
+msgstr "หล่มสัก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_68
+msgid "ศรีสวัสดิ์"
+msgstr "ศรีสวัสดิ์"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_63
+msgid "สระบุรี"
+msgstr "สระบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_33
+msgid "ภาษีเจริญ"
+msgstr "ภาษีเจริญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_300
+msgid "วังน้ำเขียว"
+msgstr "วังน้ำเขียว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_118
+msgid "แวงใหญ่"
+msgstr "แวงใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_108
+msgid "น้ำพอง"
+msgstr "น้ำพอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_563
+msgid "สบเมย"
+msgstr "สบเมย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_287
+msgid "จักราช"
+msgstr "จักราช"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_17
+msgid "บางกอกน้อย"
+msgstr "บางกอกน้อย"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_35
+msgid "พัทลุง"
+msgstr "พัทลุง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_284
+msgid "ขามสะแกแสง"
+msgstr "ขามสะแกแสง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_16
+msgid "ธนบุรี"
+msgstr "ธนบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_8cth_province_1
+msgid "ท่าฉาง"
+msgstr "ท่าฉาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_558
+msgid "ขุนยวม"
+msgstr "ขุนยวม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_163
+msgid "หันคา"
+msgstr "หันคา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_73
+msgid "กมลาไสย"
+msgstr "กมลาไสย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_825
+msgid "พนมดงรัก"
+msgstr "พนมดงรัก"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_69
+msgid "หนองคาย"
+msgstr "หนองคาย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_820
+msgid "ศีขรภูมิ"
+msgstr "ศีขรภูมิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_586
+msgid "ปทุมรัตน์"
+msgstr "ปทุมรัตน์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_734
+msgid "บางบ่อ"
+msgstr "บางบ่อ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_900
+msgid "หนองฉาง"
+msgstr "หนองฉาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_4cth_province_1
+msgid "สตึก"
+msgstr "สตึก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_726
+msgid "เมืองสตูล"
+msgstr "เมืองสตูล"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_19
+msgid "นครปฐม"
+msgstr "นครปฐม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_317
+msgid "เชียรใหญ่"
+msgstr "เชียรใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_724
+msgid "หาดใหญ่"
+msgstr "หาดใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_507
+msgid "เมืองเพชรบุรี"
+msgstr "เมืองเพชรบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_843
+msgid "เฝ้าไร่"
+msgstr "เฝ้าไร่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_176
+msgid "บำเหน็จณรงค์"
+msgstr "บำเหน็จณรงค์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_916
+msgid "ม่วงสามสิบ"
+msgstr "ม่วงสามสิบ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_66
+msgid "สุพรรณบุรี"
+msgstr "สุพรรณบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_464
+msgid "แม่ใจ"
+msgstr "แม่ใจ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_769
+msgid "ท่าช้าง"
+msgstr "ท่าช้าง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_582
+msgid "เกษตรวิสัย"
+msgstr "เกษตรวิสัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_150
+msgid "บางละมุง"
+msgstr "บางละมุง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_478
+msgid "ควนขนุน"
+msgstr "ควนขนุน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_453
+msgid "มหาราช"
+msgstr "มหาราช"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_466
+msgid "ภูกามยาว"
+msgstr "ภูกามยาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_433
+msgid "ทุ่งยางแดง"
+msgstr "ทุ่งยางแดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_885
+msgid "เมืองอุตรดิตถ์"
+msgstr "เมืองอุตรดิตถ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_862
+msgid "เสนางคนิคม"
+msgstr "เสนางคนิคม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_573
+msgid "เมืองยะลา"
+msgstr "เมืองยะลา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_421
+msgid "หัวหิน"
+msgstr "หัวหิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_180
+msgid "หนองบัวระเหว"
+msgstr "หนองบัวระเหว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_202
+msgid "เวียงชัย"
+msgstr "เวียงชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_392
+msgid "โนนสุวรรณ"
+msgstr "โนนสุวรรณ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_359
+msgid "ตากใบ"
+msgstr "ตากใบ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_915
+msgid "โพธิ์ไทร"
+msgstr "โพธิ์ไทร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_628
+msgid "ท่าวุ้ง"
+msgstr "ท่าวุ้ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_559
+msgid "ปางมะผ้า"
+msgstr "ปางมะผ้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_389
+msgid "นาโพธิ์"
+msgstr "นาโพธิ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_265
+msgid "นครชัยศรี"
+msgstr "นครชัยศรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_439
+msgid "สายบุรี"
+msgstr "สายบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_815
+msgid "ท่าตูม"
+msgstr "ท่าตูม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_741
+msgid "อัมพวา"
+msgstr "อัมพวา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_477
+msgid "เขาชัยสน"
+msgstr "เขาชัยสน"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_47
+msgid "ร้อยเอ็ด"
+msgstr "ร้อยเอ็ด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_651
+msgid "งาว"
+msgstr "งาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_77
+msgid "ท่าคันโท"
+msgstr "ท่าคันโท"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_709
+msgid "โพนนาแก้ว"
+msgstr "โพนนาแก้ว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_755
+msgid "แก่งคอย"
+msgstr "แก่งคอย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_547
+msgid "กุดรัง"
+msgstr "กุดรัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_426
+msgid "นาดี"
+msgstr "นาดี"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_18
+msgid "นครนายก"
+msgstr "นครนายก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_364
+msgid "แว้ง"
+msgstr "แว้ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_344
+msgid "พยุหคีรี"
+msgstr "พยุหคีรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_225
+msgid "สันกำแพง"
+msgstr "สันกำแพง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_53
+msgid "ลำปาง"
+msgstr "ลำปาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_85
+msgid "ห้วยเม็ก"
+msgstr "ห้วยเม็ก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_649
+msgid "เมืองลำปาง"
+msgstr "เมืองลำปาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_639
+msgid "นาด้วง"
+msgstr "นาด้วง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_312
+msgid "บัวลาย"
+msgstr "บัวลาย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_880
+msgid "สร้างคอม"
+msgstr "สร้างคอม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_43
+msgid "หนองจอก"
+msgstr "หนองจอก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_276
+msgid "โพนสวรรค์"
+msgstr "โพนสวรรค์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_873
+msgid "โนนสะอาด"
+msgstr "โนนสะอาด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_366
+msgid "สุคิริน"
+msgstr "สุคิริน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_141
+msgid "แปลงยาว"
+msgstr "แปลงยาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_495
+msgid "บึงนาราง"
+msgstr "บึงนาราง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_51
+msgid "วังทองหลาง"
+msgstr "วังทองหลาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_160
+msgid "วัดสิงห์"
+msgstr "วัดสิงห์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_222
+msgid "แม่ออน"
+msgstr "แม่ออน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_334
+msgid "ถ้ำพรรณรา"
+msgstr "ถ้ำพรรณรา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_424
+msgid "กบินทร์บุรี"
+msgstr "กบินทร์บุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_529
+msgid "ลอง"
+msgstr "ลอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_194
+msgid "เทิง"
+msgstr "เทิง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_610
+msgid "ปลวกแดง"
+msgstr "ปลวกแดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_462
+msgid "ดอกคำใต้"
+msgstr "ดอกคำใต้"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_633
+msgid "สระโบถส์"
+msgstr "สระโบถส์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_367
+msgid "สุไหงโกลก"
+msgstr "สุไหงโกลก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_138
+msgid "บางน้ำเปรี้ยว"
+msgstr "บางน้ำเปรี้ยว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_650
+msgid "เกาะคา"
+msgstr "เกาะคา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_640
+msgid "นาแห้ว"
+msgstr "นาแห้ว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_269
+msgid "เมืองนครพนม"
+msgstr "เมืองนครพนม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_210
+msgid "เชียงดาว"
+msgstr "เชียงดาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_531
+msgid "สอง"
+msgstr "สอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_246
+msgid "บ่อไร่"
+msgstr "บ่อไร่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_129
+msgid "ท่าใหม่"
+msgstr "ท่าใหม่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_799
+msgid "ไชยา"
+msgstr "ไชยา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_83
+msgid "หนองกุงศรี"
+msgstr "หนองกุงศรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_670
+msgid "เมืองศีรสะเกษ"
+msgstr "เมืองศีรสะเกษ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_476
+msgid "กงหรา"
+msgstr "กงหรา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_566
+msgid "ค้อวัง"
+msgstr "ค้อวัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_429
+msgid "ศรีมหาโพธิ"
+msgstr "ศรีมหาโพธิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_358
+msgid "จะแนะ"
+msgstr "จะแนะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_7
+msgid "เหนือคลอง"
+msgstr "เหนือคลอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_546
+msgid "วาปีปทุม"
+msgstr "วาปีปทุม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_837
+msgid "ศรีเชียงใหม่"
+msgstr "ศรีเชียงใหม่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_760
+msgid "วิหารแดง"
+msgstr "วิหารแดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_112
+msgid "พล"
+msgstr "พล"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_49
+msgid "ระยอง"
+msgstr "ระยอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_822
+msgid "สังขะ"
+msgstr "สังขะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_841
+msgid "บุ่งคล้า"
+msgstr "บุ่งคล้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_890
+msgid "บ้านโคก"
+msgstr "บ้านโคก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_149
+msgid "บ่อทอง"
+msgstr "บ่อทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_190
+msgid "เมืองเชียงราย"
+msgstr "เมืองเชียงราย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_748
+msgid "ตาพระยา"
+msgstr "ตาพระยา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_11
+#: model:cth.district,name:cth.cth_district_209
+msgid "จอมทอง"
+msgstr "จอมทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_899
+msgid "หนองขาหย่าง"
+msgstr "หนองขาหย่าง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_448
+msgid "บางปะหัน"
+msgstr "บางปะหัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_917
+msgid "เหล่าเสือโก้ก"
+msgstr "เหล่าเสือโก้ก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_200
+msgid "แม่สาย"
+msgstr "แม่สาย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_220
+msgid "แม่วาง"
+msgstr "แม่วาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_836
+msgid "โพนพิสัย"
+msgstr "โพนพิสัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_82
+msgid "สหัสขันธ์"
+msgstr "สหัสขันธ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_488
+msgid "ทับคล้อ"
+msgstr "ทับคล้อ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_835
+msgid "พรเจริญ"
+msgstr "พรเจริญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_895
+msgid "ทัพทัน"
+msgstr "ทัพทัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_564
+msgid "เมืองยโสธร"
+msgstr "เมืองยโสธร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_856
+msgid "สามโก้"
+msgstr "สามโก้"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_283
+msgid "ขามทะเลสอ"
+msgstr "ขามทะเลสอ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_403
+msgid "หนองหงส์"
+msgstr "หนองหงส์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_155
+msgid "สัตหีบ"
+msgstr "สัตหีบ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_593
+msgid "ศรีสมเด็จ"
+msgstr "ศรีสมเด็จ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_565
+msgid "กุดชุม"
+msgstr "กุดชุม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_425
+msgid "ศรีมโหสถ"
+msgstr "ศรีมโหสถ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_440
+msgid "หนองจิก"
+msgstr "หนองจิก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_159
+msgid "มโนรมย์"
+msgstr "มโนรมย์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_691
+msgid "ศิลาลาด"
+msgstr "ศิลาลาด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_87
+msgid "สามชัย"
+msgstr "สามชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_379
+msgid "เวียงสา"
+msgstr "เวียงสา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_110
+msgid "บ้านฝาง"
+msgstr "บ้านฝาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_244
+msgid "เขาสมิง"
+msgstr "เขาสมิง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_723
+msgid "สิงหนคร"
+msgstr "สิงหนคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_910
+msgid "ทุ่งศรีอุดม"
+msgstr "ทุ่งศรีอุดม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_662
+msgid "เมืองลำพูน"
+msgstr "เมืองลำพูน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_44
+msgid "ห้วยขวาง"
+msgstr "ห้วยขวาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_508
+msgid "แก่งกระจาน"
+msgstr "แก่งกระจาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_48
+msgid "สายไหม"
+msgstr "สายไหม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_238
+msgid "ห้วยยอด"
+msgstr "ห้วยยอด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_340
+msgid "ตากฟ้า"
+msgstr "ตากฟ้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_386
+msgid "กระสัง"
+msgstr "กระสัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_215
+msgid "ฝาง"
+msgstr "ฝาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_911
+msgid "นาจะหลวย"
+msgstr "นาจะหลวย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_833
+msgid "บึงโขลงหลง"
+msgstr "บึงโขลงหลง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_56
+msgid "สกลนคร"
+msgstr "สกลนคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_279
+msgid "วังยาง"
+msgstr "วังยาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_652
+msgid "แจ้ห่ม"
+msgstr "แจ้ห่ม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_286
+msgid "ครบุรี"
+msgstr "ครบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_580
+msgid "รามัน"
+msgstr "รามัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_145
+msgid "ท่าตะเกียบ"
+msgstr "ท่าตะเกียบ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_443
+msgid "ท่าเรือ"
+msgstr "ท่าเรือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_703
+msgid "วาริชภูมิ"
+msgstr "วาริชภูมิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_354
+msgid "บางบัวทอง"
+msgstr "บางบัวทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_792
+msgid "เมืองสุราษฎร์ธานี"
+msgstr "เมืองสุราษฎร์ธานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_207
+msgid "เวียงเชียงรุ้ง"
+msgstr "เวียงเชียงรุ้ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_302
+msgid "สูงเนิน"
+msgstr "สูงเนิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_623
+msgid "บ้านคา"
+msgstr "บ้านคา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_596
+msgid "หนองพอก"
+msgstr "หนองพอก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_218
+msgid "แม่แตง"
+msgstr "แม่แตง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_2
+msgid "เกาะลันตา"
+msgstr "เกาะลันตา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_532
+msgid "หนองม่วงไข่"
+msgstr "หนองม่วงไข่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_860
+msgid "ปทุมราชวงศา"
+msgstr "ปทุมราชวงศา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_839
+msgid "สังคม"
+msgstr "สังคม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_224
+msgid "สะเมิง"
+msgstr "สะเมิง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_738
+msgid "บางเสาธง"
+msgstr "บางเสาธง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_756
+msgid "ดอนพุด"
+msgstr "ดอนพุด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_681
+msgid "ไพรบึง"
+msgstr "ไพรบึง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_855
+msgid "วิเศษชัยชาญ"
+msgstr "วิเศษชัยชาญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_497
+msgid "วชิรบารมี"
+msgstr "วชิรบารมี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_254
+msgid "แม่สอด"
+msgstr "แม่สอด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_100
+msgid "โกสัมพีนคร"
+msgstr "โกสัมพีนคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_924
+msgid "สว่างวีระวงศ์"
+msgstr "สว่างวีระวงศ์"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_31
+msgid "ปัตตานี"
+msgstr "ปัตตานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_463
+msgid "ปง"
+msgstr "ปง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_858
+msgid "เมืองอำนาจเจริญ"
+msgstr "เมืองอำนาจเจริญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_732
+msgid "มะนัง"
+msgstr "มะนัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_452
+msgid "ภาชี"
+msgstr "ภาชี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_767
+msgid "เมืองสิงห์บุรี"
+msgstr "เมืองสิงห์บุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_332
+msgid "นบพิตำ"
+msgstr "นบพิตำ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_609
+msgid "บ้านฉาง"
+msgstr "บ้านฉาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_832
+msgid "บึงกาฬ"
+msgstr "บึงกาฬ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_883
+msgid "หนองแสง"
+msgstr "หนองแสง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_438
+msgid "ยะหริ่ง"
+msgstr "ยะหริ่ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_459
+msgid "จุน"
+msgstr "จุน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_350
+msgid "ชุมตาบง"
+msgstr "ชุมตาบง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_157
+msgid "เกาะจันทร์"
+msgstr "เกาะจันทร์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_351
+msgid "เมืองนนทบุรี"
+msgstr "เมืองนนทบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_427
+msgid "บ้านสร้าง"
+msgstr "บ้านสร้าง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_661
+msgid "ห้างฉัตร"
+msgstr "ห้างฉัตร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_306
+msgid "เทพารักษ์"
+msgstr "เทพารักษ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_139
+msgid "บางปะกง"
+msgstr "บางปะกง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_65
+msgid "บ่อพลอย"
+msgstr "บ่อพลอย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_751
+msgid "อรัญประเทศ"
+msgstr "อรัญประเทศ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_827
+msgid "โนนนารายณ์"
+msgstr "โนนนารายณ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_79
+msgid "ยางตลาด"
+msgstr "ยางตลาด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_720
+msgid "สทิงพระ"
+msgstr "สทิงพระ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_353
+msgid "บางกรวย"
+msgstr "บางกรวย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_5
+msgid "ปลายพระยา"
+msgstr "ปลายพระยา"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_41
+msgid "ภูเก็ต"
+msgstr "ภูเก็ต"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_736
+msgid "พระประแดง"
+msgstr "พระประแดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_758
+msgid "พระพุทธบาท"
+msgstr "พระพุทธบาท"
+
+#. module: cth
+#: field:cth.district,name:0
+#: field:cth.province,name:0
+msgid "Name"
+msgstr "ชื่อ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_872
+msgid "น้ำโสม"
+msgstr "น้ำโสม"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_26
+msgid "น่าน"
+msgstr "น่าน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_104
+msgid "โคกโพธิ์ไชย"
+msgstr "โคกโพธิ์ไชย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_296
+msgid "ประทาย"
+msgstr "ประทาย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_472
+msgid "ตะกั่วป่า"
+msgstr "ตะกั่วป่า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_164
+msgid "หนองมะโมง"
+msgstr "หนองมะโมง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_745
+msgid "เมืองสระแก้ว"
+msgstr "เมืองสระแก้ว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_702
+msgid "วานรนิวาส"
+msgstr "วานรนิวาส"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_216
+msgid "พร้าว"
+msgstr "พร้าว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_394
+msgid "พลับพลาชัย"
+msgstr "พลับพลาชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_685
+msgid "ยางชุมน้อย"
+msgstr "ยางชุมน้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_122
+msgid "หนองนาคำ"
+msgstr "หนองนาคำ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_175
+msgid "บ้านแท่น"
+msgstr "บ้านแท่น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_113
+msgid "พระยืน"
+msgstr "พระยืน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_67
+msgid "เลาขวัญ"
+msgstr "เลาขวัญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_457
+msgid "อุทัย"
+msgstr "อุทัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_119
+msgid "สีชมพู"
+msgstr "สีชมพู"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_683
+msgid "ภูสิงห์"
+msgstr "ภูสิงห์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_713
+msgid "จะนะ"
+msgstr "จะนะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_203
+msgid "เวียงป่าเป้า"
+msgstr "เวียงป่าเป้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_920
+msgid "สำโรง"
+msgstr "สำโรง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_693
+msgid "กุดบาก"
+msgstr "กุดบาก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_4
+msgid "คลองท่อม"
+msgstr "คลองท่อม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_447
+msgid "บางบาล"
+msgstr "บางบาล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_840
+msgid "สระใคร่"
+msgstr "สระใคร่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_324
+msgid "ปากพนัง"
+msgstr "ปากพนัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_780
+msgid "ศรีสำโรง"
+msgstr "ศรีสำโรง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_533
+msgid "สูงเม่น"
+msgstr "สูงเม่น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_213
+msgid "ดอยหล่อ"
+msgstr "ดอยหล่อ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_468
+msgid "กะปง"
+msgstr "กะปง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_513
+msgid "บ้านแหลม"
+msgstr "บ้านแหลม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_622
+msgid "สวนผึ้ง"
+msgstr "สวนผึ้ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_56
+msgid "บางแค"
+msgstr "บางแค"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_491
+msgid "โพธิ์ประทับช้าง"
+msgstr "โพธิ์ประทับช้าง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_423
+msgid "เมืองปราจีนบุรี"
+msgstr "เมืองปราจีนบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_585
+msgid "ธวัชบุรี"
+msgstr "ธวัชบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_285
+msgid "คง"
+msgstr "คง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_272
+msgid "นาแก"
+msgstr "นาแก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_370
+msgid "เมืองน่าน"
+msgstr "เมืองน่าน"
+
+#. module: cth
+#: field:cth.district,province_ids:0
+#: view:cth.province:0
+#: model:ir.actions.act_window,name:cth.act_province
+#: model:ir.ui.menu,name:cth.menu_province
+#: field:res.partner,province_id:0
+msgid "Provinces"
+msgstr "จังหวัด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_626
+msgid "โคกสำโรง"
+msgstr "โคกสำโรง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_307
+msgid "เมืองยาง"
+msgstr "เมืองยาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_530
+msgid "วังชิ้น"
+msgstr "วังชิ้น"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_15
+msgid "ตรัง"
+msgstr "ตรัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_710
+msgid "เมืองสงขลา"
+msgstr "เมืองสงขลา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_326
+msgid "พิปูน"
+msgstr "พิปูน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_369
+msgid "เจาะไอร้อง"
+msgstr "เจาะไอร้อง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_60
+msgid "ด่านมะขามเตี้ย"
+msgstr "ด่านมะขามเตี้ย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_857
+msgid "แสวงหา"
+msgstr "แสวงหา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_878
+msgid "วังสามหมอ"
+msgstr "วังสามหมอ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_480
+msgid "ปากพะยูน"
+msgstr "ปากพะยูน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_36
+msgid "ราชเทวี"
+msgstr "ราชเทวี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_182
+msgid "เมืองชุมพร"
+msgstr "เมืองชุมพร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_345
+msgid "ไพศาลี"
+msgstr "ไพศาลี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_721
+msgid "สะเดา"
+msgstr "สะเดา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_361
+msgid "ยี่งอ"
+msgstr "ยี่งอ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_346
+msgid "แม่วงก์"
+msgstr "แม่วงก์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_781
+msgid "สวรรคโลก"
+msgstr "สวรรคโลก"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_8
+msgid "ฉะเชิงเทรา"
+msgstr "ฉะเชิงเทรา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_834
+msgid "ปากคาด"
+msgstr "ปากคาด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_877
+msgid "เพ็ญ"
+msgstr "เพ็ญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_719
+msgid "รัตภูมิ"
+msgstr "รัตภูมิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_342
+msgid "ท่าตะโก"
+msgstr "ท่าตะโก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_126
+msgid "เมืองจันทบุรี"
+msgstr "เมืองจันทบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_544
+msgid "บรบือ"
+msgstr "บรบือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_102
+msgid "กระนวน"
+msgstr "กระนวน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_169
+msgid "คอนสวรรค์"
+msgstr "คอนสวรรค์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_646
+msgid "วังสะพุง"
+msgstr "วังสะพุง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_918
+msgid "วารินชำราบ"
+msgstr "วารินชำราบ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_1
+msgid "กระบี่"
+msgstr "กระบี่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_465
+msgid "ภูซาง"
+msgstr "ภูซาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_838
+msgid "ศรีวิไล"
+msgstr "ศรีวิไล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_38
+msgid "ลาดกระบัง"
+msgstr "ลาดกระบัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_777
+msgid "บ้านด่านลานหอย"
+msgstr "บ้านด่านลานหอย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_696
+msgid "เจริญศิลป์"
+msgstr "เจริญศิลป์"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_10
+msgid "ชัยนาท"
+msgstr "ชัยนาท"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_757
+msgid "บ้านหมอ"
+msgstr "บ้านหมอ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_40
+msgid "แพร่"
+msgstr "แพร่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_241
+msgid "นาโยง"
+msgstr "นาโยง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_199
+msgid "แม่สรวย"
+msgstr "แม่สรวย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_191
+msgid "ขุนตาล"
+msgstr "ขุนตาล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_45
+msgid "สวนหลวง"
+msgstr "สวนหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_733
+msgid "เมืองสมุทรปราการ"
+msgstr "เมืองสมุทรปราการ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_249
+msgid "เมืองตาก"
+msgstr "เมืองตาก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_675
+msgid "น้ำเกลี้ยง"
+msgstr "น้ำเกลี้ยง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_499
+msgid "นครไทย"
+msgstr "นครไทย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_616
+msgid "ดำเนินสะดวก"
+msgstr "ดำเนินสะดวก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_377
+msgid "ปัว"
+msgstr "ปัว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_117
+msgid "แวงน้อย"
+msgstr "แวงน้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_63
+msgid "ท่ามะกา"
+msgstr "ท่ามะกา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_6
+msgid "ลำทับ"
+msgstr "ลำทับ"
+
+#. module: cth
+#: view:cth.district:0
+#: model:ir.actions.act_window,name:cth.act_district
+#: model:ir.ui.menu,name:cth.menu_district
+#: field:res.partner,district_ids:0
+msgid "Districts"
+msgstr "อำเภอ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_62
+msgid "สระแก้ว"
+msgstr "สระแก้ว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_362
+msgid "ระแงะ"
+msgstr "ระแงะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_511
+msgid "ท่ายาง"
+msgstr "ท่ายาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_708
+msgid "ภูพาน"
+msgstr "ภูพาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_874
+msgid "บ้านดุง"
+msgstr "บ้านดุง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_904
+msgid "เขมราฐ"
+msgstr "เขมราฐ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_360
+msgid "บาเจาะ"
+msgstr "บาเจาะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_35
+msgid "ยานนาวา"
+msgstr "ยานนาวา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_847
+msgid "โนนสัง"
+msgstr "โนนสัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_400
+msgid "ลำปลายมาศ"
+msgstr "ลำปลายมาศ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_55
+msgid "ศีรสะเกษ"
+msgstr "ศีรสะเกษ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_712
+msgid "ควนเนียง"
+msgstr "ควนเนียง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_415
+msgid "เมืองประจวบคีรีขันธ์"
+msgstr "เมืองประจวบคีรีขันธ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_412
+msgid "ลำลูกกา"
+msgstr "ลำลูกกา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_570
+msgid "ป่าติ้ว"
+msgstr "ป่าติ้ว"
+
+#. module: cth
+#: model:ir.model,name:cth.model_cth_district
+msgid "cth.district"
+msgstr "cth.district"
+
+#. module: cth
+#: view:res.partner:0
+msgid "Province.."
+msgstr "จังหวัด.."
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_742
+msgid "เมืองสมุทรสาคร"
+msgstr "เมืองสมุทรสาคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_55
+msgid "ทวีวัฒนา"
+msgstr "ทวีวัฒนา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_291
+msgid "โนนแดง"
+msgstr "โนนแดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_337
+msgid "เก้าเลี้ยว"
+msgstr "เก้าเลี้ยว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_772
+msgid "อินทร์บุรี"
+msgstr "อินทร์บุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_587
+msgid "พนมไพร"
+msgstr "พนมไพร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_844
+msgid "โพธิ์ตาก"
+msgstr "โพธิ์ตาก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_178
+msgid "ภักดีชุมพล"
+msgstr "ภักดีชุมพล"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_22
+msgid "นครศรีธรรมราช"
+msgstr "นครศรีธรรมราช"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_171
+msgid "จัตุรัส"
+msgstr "จัตุรัส"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_250
+msgid "ท่าสองยาง"
+msgstr "ท่าสองยาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_153
+msgid "พนัสนิคม"
+msgstr "พนัสนิคม"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_30
+msgid "ปราจีนบุรี"
+msgstr "ปราจีนบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_395
+msgid "บ้านใหม่ไชยพจน์"
+msgstr "บ้านใหม่ไชยพจน์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_219
+msgid "แม่ริม"
+msgstr "แม่ริม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_690
+msgid "อุทุมพรพิสัย"
+msgstr "อุทุมพรพิสัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_186
+msgid "พะโต๊ะ"
+msgstr "พะโต๊ะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_356
+msgid "ปากเกร็ด"
+msgstr "ปากเกร็ด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_863
+msgid "หัวตะพาน"
+msgstr "หัวตะพาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_368
+msgid "สุไหงปาดี"
+msgstr "สุไหงปาดี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_803
+msgid "บ้านตาขุน"
+msgstr "บ้านตาขุน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_854
+msgid "โพธิ์ทอง"
+msgstr "โพธิ์ทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_328
+msgid "ลานสะกา"
+msgstr "ลานสะกา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_101
+msgid "เมืองขอนแก่น"
+msgstr "เมืองขอนแก่น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_49
+msgid "คันนายาว"
+msgstr "คันนายาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_343
+msgid "บรรพตพิสัย"
+msgstr "บรรพตพิสัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_235
+msgid "ย่านตาขาว"
+msgstr "ย่านตาขาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_542
+msgid "นาเชือก"
+msgstr "นาเชือก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_21
+msgid "บางเขน"
+msgstr "บางเขน"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_58
+msgid "สตูล"
+msgstr "สตูล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_902
+msgid "เมืองอุบลราชธานี"
+msgstr "เมืองอุบลราชธานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_74
+msgid "กุฉินารายณ์"
+msgstr "กุฉินารายณ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_469
+msgid "เกาะยาว"
+msgstr "เกาะยาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_912
+msgid "น้ำยืน"
+msgstr "น้ำยืน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_420
+msgid "ปราณบุรี"
+msgstr "ปราณบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_867
+msgid "กุดจับ"
+msgstr "กุดจับ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_896
+msgid "บ้านไร่"
+msgstr "บ้านไร่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_414
+msgid "หนองเสือ"
+msgstr "หนองเสือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_922
+msgid "นาเยีย"
+msgstr "นาเยีย"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_76
+msgid "อุบลราชธานี"
+msgstr "อุบลราชธานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_776
+msgid "ทุ่งเสลี่ยม"
+msgstr "ทุ่งเสลี่ยม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_889
+msgid "น้ำปาด"
+msgstr "น้ำปาด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_294
+msgid "บัวใหญ่"
+msgstr "บัวใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_794
+msgid "เกาะพะงัน"
+msgstr "เกาะพะงัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_388
+msgid "ชำนิ"
+msgstr "ชำนิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_536
+msgid "ถลาง"
+msgstr "ถลาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_378
+msgid "แม่จริม"
+msgstr "แม่จริม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_824
+msgid "ศรีณรงค์"
+msgstr "ศรีณรงค์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_722
+msgid "สะบ้าย้อย"
+msgstr "สะบ้าย้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_391
+msgid "โนนดินแดง"
+msgstr "โนนดินแดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_52
+msgid "คลองสามวา"
+msgstr "คลองสามวา"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_64
+msgid "สิงห์บุรี"
+msgstr "สิงห์บุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_471
+msgid "ตะกั่วทุ่ง"
+msgstr "ตะกั่วทุ่ง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_71
+msgid "อ่างทอง"
+msgstr "อ่างทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_59
+msgid "เมืองกาญจนบุรี"
+msgstr "เมืองกาญจนบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_759
+msgid "มวกเหล็ก"
+msgstr "มวกเหล็ก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_413
+msgid "สามโคก"
+msgstr "สามโคก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_97
+msgid "พรานกระต่าย"
+msgstr "พรานกระต่าย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_124
+msgid "โนนศิลา"
+msgstr "โนนศิลา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_352
+msgid "ไทรน้อย"
+msgstr "ไทรน้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_527
+msgid "เด่นชัย"
+msgstr "เด่นชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_143
+msgid "ราชสาส์น"
+msgstr "ราชสาส์น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_98
+msgid "ลานกระบือ"
+msgstr "ลานกระบือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_798
+msgid "ชัยบุรี"
+msgstr "ชัยบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_538
+msgid "กันทรวิชัย"
+msgstr "กันทรวิชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_672
+msgid "กันทรารมย์"
+msgstr "กันทรารมย์"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_37
+msgid "พิษณุโลก"
+msgstr "พิษณุโลก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_793
+msgid "กาญจนดิษฐ์"
+msgstr "กาญจนดิษฐ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_694
+msgid "กุสุมาลย์"
+msgstr "กุสุมาลย์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_659
+msgid "สบปราบ"
+msgstr "สบปราบ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_273
+msgid "นาหว้า"
+msgstr "นาหว้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_165
+msgid "เนินขาม"
+msgstr "เนินขาม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_663
+msgid "ทุ่งหัวช้าง"
+msgstr "ทุ่งหัวช้าง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_348
+msgid "หนองบัว"
+msgstr "หนองบัว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_333
+msgid "ช้างกลาง"
+msgstr "ช้างกลาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_602
+msgid "กระบุรี"
+msgstr "กระบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_293
+msgid "โนนสูง"
+msgstr "โนนสูง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_643
+msgid "ภูกระดึง"
+msgstr "ภูกระดึง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_689
+msgid "ห้วยทับทัน"
+msgstr "ห้วยทับทัน"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_34
+msgid "พังงา"
+msgstr "พังงา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_259
+msgid "บ้านนา"
+msgstr "บ้านนา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_137
+msgid "บางคล้า"
+msgstr "บางคล้า"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_13
+msgid "เชียงราย"
+msgstr "เชียงราย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_5cth_province_1
+msgid "เนินมะปราง"
+msgstr "เนินมะปราง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_252
+msgid "พบพระ"
+msgstr "พบพระ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_851
+msgid "เมืองอ่างทอง"
+msgstr "เมืองอ่างทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_295
+msgid "บ้านเหลื่อม"
+msgstr "บ้านเหลื่อม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_699
+msgid "บ้านม่วง"
+msgstr "บ้านม่วง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_262
+msgid "เมืองนครปฐม"
+msgstr "เมืองนครปฐม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_437
+msgid "ยะรัง"
+msgstr "ยะรัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_196
+msgid "พาน"
+msgstr "พาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_133
+msgid "สอยดาว"
+msgstr "สอยดาว"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_68
+msgid "สุรินทร์"
+msgstr "สุรินทร์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_783
+msgid "ดอนเจดีย์"
+msgstr "ดอนเจดีย์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_372
+msgid "ท่าวังผา"
+msgstr "ท่าวังผา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_654
+msgid "แม่ทะ"
+msgstr "แม่ทะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_382
+msgid "สองแคว"
+msgstr "สองแคว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_666
+msgid "แม่ทา"
+msgstr "แม่ทา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_555
+msgid "หนองสูง"
+msgstr "หนองสูง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_540
+msgid "โกสุมพิสัย"
+msgstr "โกสุมพิสัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_474
+msgid "ท้ายเหมือง"
+msgstr "ท้ายเหมือง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_484
+msgid "บางแก้ว"
+msgstr "บางแก้ว"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_6
+msgid "ขอนแก่น"
+msgstr "ขอนแก่น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_594
+msgid "เสลภูมิ"
+msgstr "เสลภูมิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_784
+msgid "ด่านช้าง"
+msgstr "ด่านช้าง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_700
+msgid "พรรณานิคม"
+msgstr "พรรณานิคม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_105
+msgid "ชำสูง"
+msgstr "ชำสูง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_177
+msgid "ภูเขียว"
+msgstr "ภูเขียว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_107
+msgid "ชุมแพ"
+msgstr "ชุมแพ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_884
+msgid "ประจักษ์ศิลปาคาม"
+msgstr "ประจักษ์ศิลปาคาม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_13
+msgid "ดุสิต"
+msgstr "ดุสิต"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_192
+msgid "เชียงของ"
+msgstr "เชียงของ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_706
+msgid "ส่องดาว"
+msgstr "ส่องดาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_125
+msgid "บ้านแฮด"
+msgstr "บ้านแฮด"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_23
+msgid "นครสวรรค์"
+msgstr "นครสวรรค์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_574
+msgid "กาบัง"
+msgstr "กาบัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_625
+msgid "โคกเจริญ"
+msgstr "โคกเจริญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_12
+msgid "จตุจักร"
+msgstr "จตุจักร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_509
+msgid "เขาย้อย"
+msgstr "เขาย้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_109
+msgid "บ้านไผ่"
+msgstr "บ้านไผ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_385
+msgid "เมืองบุรีรัมย์"
+msgstr "เมืองบุรีรัมย์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_229
+msgid "หางดง"
+msgstr "หางดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_399
+msgid "ละหานทราย"
+msgstr "ละหานทราย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_131
+msgid "โป่งน้ำร้อน"
+msgstr "โป่งน้ำร้อน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_814
+msgid "ชุมพลบุรี"
+msgstr "ชุมพลบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_888
+msgid "ท่าปลา"
+msgstr "ท่าปลา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_747
+msgid "คลองหาด"
+msgstr "คลองหาด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_116
+msgid "มัญจาคีรี"
+msgstr "มัญจาคีรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_811
+msgid "เมืองสุรินทร์"
+msgstr "เมืองสุรินทร์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_842
+msgid "รัตนวาปี"
+msgstr "รัตนวาปี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_588
+msgid "โพธิ์ชัย"
+msgstr "โพธิ์ชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_490
+msgid "โพทะเล"
+msgstr "โพทะเล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_387
+msgid "คูเมือง"
+msgstr "คูเมือง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_64
+msgid "ไทรโยค"
+msgstr "ไทรโยค"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_716
+msgid "นาหม่อม"
+msgstr "นาหม่อม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_754
+msgid "เมืองสระบุรี"
+msgstr "เมืองสระบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_32
+msgid "พระนคร"
+msgstr "พระนคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_318
+msgid "ท่าศาลา"
+msgstr "ท่าศาลา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_761
+msgid "เสาไห้"
+msgstr "เสาไห้"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_893
+msgid "ลับแล"
+msgstr "ลับแล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_773
+msgid "เมืองสุโขทัย"
+msgstr "เมืองสุโขทัย"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_42
+msgid "มหาสารคาม"
+msgstr "มหาสารคาม"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_73
+msgid "อุดรธานี"
+msgstr "อุดรธานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_315
+msgid "ฉวาง"
+msgstr "ฉวาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_228
+msgid "สารภี"
+msgstr "สารภี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_274
+msgid "บ้านแพง"
+msgstr "บ้านแพง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_51
+msgid "ลพบุรี"
+msgstr "ลพบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_787
+msgid "ศรีประจันต์"
+msgstr "ศรีประจันต์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_166
+msgid "เมืองชัยภูมิ"
+msgstr "เมืองชัยภูมิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_223
+msgid "เวียงแหง"
+msgstr "เวียงแหง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_14
+msgid "เชียงใหม่"
+msgstr "เชียงใหม่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_919
+msgid "ศรีเมืองใหม่"
+msgstr "ศรีเมืองใหม่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_263
+msgid "กำแพงแสน"
+msgstr "กำแพงแสน"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_16
+msgid "ตราด"
+msgstr "ตราด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_384
+msgid "ภูเพียง"
+msgstr "ภูเพียง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_907
+msgid "เดชอุดม"
+msgstr "เดชอุดม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_168
+msgid "แก้งคร้อ"
+msgstr "แก้งคร้อ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_541
+msgid "เชียงยืน"
+msgstr "เชียงยืน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_909
+msgid "ตาลสุม"
+msgstr "ตาลสุม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_539
+msgid "แกดำ"
+msgstr "แกดำ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_181
+msgid "ซับใหญ่"
+msgstr "ซับใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_819
+msgid "ลำดวน"
+msgstr "ลำดวน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_926
+msgid "ดอนมดแดง"
+msgstr "ดอนมดแดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_349
+msgid "แม่เปิน"
+msgstr "แม่เปิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_599
+msgid "หนองฮี"
+msgstr "หนองฮี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_740
+msgid "บางคณที"
+msgstr "บางคณที"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_278
+msgid "ศรีสงคราม"
+msgstr "ศรีสงคราม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_154
+msgid "ศรีราชา"
+msgstr "ศรีราชา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_172
+msgid "เทพสถิต"
+msgstr "เทพสถิต"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_47
+msgid "หลักสี่"
+msgstr "หลักสี่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_869
+msgid "ไชยวาน"
+msgstr "ไชยวาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_170
+msgid "คอนสาร"
+msgstr "คอนสาร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_796
+msgid "คีรีรัฐนิคม"
+msgstr "คีรีรัฐนิคม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_853
+msgid "ป่าโมก"
+msgstr "ป่าโมก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_330
+msgid "หัวไทร"
+msgstr "หัวไทร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_57
+msgid "ทุ่งครุ"
+msgstr "ทุ่งครุ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_749
+msgid "วังน้ำเย็น"
+msgstr "วังน้ำเย็น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_674
+msgid "ขุนหาญ"
+msgstr "ขุนหาญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_568
+msgid "ไทยเจริญ"
+msgstr "ไทยเจริญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_405
+msgid "บ้านด่าน"
+msgstr "บ้านด่าน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_398
+msgid "พุทไธสง"
+msgstr "พุทไธสง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_657
+msgid "แม่เมาะ"
+msgstr "แม่เมาะ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_60
+msgid "สมุทรสงคราม"
+msgstr "สมุทรสงคราม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_660
+msgid "เสริมงาม"
+msgstr "เสริมงาม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_258
+msgid "เมืองนครนายก"
+msgstr "เมืองนครนายก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_698
+msgid "นิคมน้ำอูน"
+msgstr "นิคมน้ำอูน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_135
+msgid "เขาคิชฌกูฏ"
+msgstr "เขาคิชฌกูฏ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_27
+msgid "ประเวศ"
+msgstr "ประเวศ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_556
+msgid "หว้านใหญ่"
+msgstr "หว้านใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_473
+msgid "ทับปุด"
+msgstr "ทับปุด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_496
+msgid "ดงเจริญ"
+msgstr "ดงเจริญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_866
+msgid "กู่แก้ว"
+msgstr "กู่แก้ว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_76
+msgid "คำม่วง"
+msgstr "คำม่วง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_70
+msgid "หนองปรือ"
+msgstr "หนองปรือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_50
+msgid "สะพานสูง"
+msgstr "สะพานสูง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_516
+msgid "เขาค้อ"
+msgstr "เขาค้อ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_11
+msgid "ชัยภูมิ"
+msgstr "ชัยภูมิ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_70
+msgid "หนองบัวลำภู"
+msgstr "หนองบัวลำภู"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_848
+msgid "ศรีบุญเรือง"
+msgstr "ศรีบุญเรือง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_94
+msgid "ทรายทองวัฒนา"
+msgstr "ทรายทองวัฒนา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_686
+msgid "ราษีไศล"
+msgstr "ราษีไศล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_830
+msgid "โซ่พิสัย"
+msgstr "โซ่พิสัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_151
+msgid "บ้านบึง"
+msgstr "บ้านบึง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_584
+msgid "จังหาร"
+msgstr "จังหาร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_37
+msgid "ราษฎร์บูรณะ"
+msgstr "ราษฎร์บูรณะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_750
+msgid "วัฒนานคร"
+msgstr "วัฒนานคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_879
+msgid "ศรีธาตุ"
+msgstr "ศรีธาตุ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_810
+msgid "เวียงสระ"
+msgstr "เวียงสระ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_823
+msgid "สำโรงทาบ"
+msgstr "สำโรงทาบ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_692
+msgid "เมืองสกลนคร"
+msgstr "เมืองสกลนคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_621
+msgid "วัดเพลง"
+msgstr "วัดเพลง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_41
+msgid "สัมพันธวงศ์"
+msgstr "สัมพันธวงศ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_9
+msgid "คลองสาน"
+msgstr "คลองสาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_325
+msgid "พรหมคีรี"
+msgstr "พรหมคีรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_487
+msgid "ตะพานหิน"
+msgstr "ตะพานหิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_80
+msgid "ร่องคำ"
+msgstr "ร่องคำ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_506
+msgid "วัดโบสถ์"
+msgstr "วัดโบสถ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_500
+msgid "ชาติตระการ"
+msgstr "ชาติตระการ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_829
+msgid "เซกา"
+msgstr "เซกา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_483
+msgid "ศรีบรรพต"
+msgstr "ศรีบรรพต"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_103
+msgid "เขาสวนกวาง"
+msgstr "เขาสวนกวาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_7cth_province_1
+msgid "พังโคน"
+msgstr "พังโคน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_8
+msgid "อ่าวลึก"
+msgstr "อ่าวลึก"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_39
+msgid "เพชรบูรณ์"
+msgstr "เพชรบูรณ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_327
+msgid "ร่อนพิบูลย์"
+msgstr "ร่อนพิบูลย์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_845
+msgid "เมืองหนองบัวลำภู"
+msgstr "เมืองหนองบัวลำภู"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_627
+msgid "ชัยบาดาล"
+msgstr "ชัยบาดาล"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_36
+msgid "พิจิตร"
+msgstr "พิจิตร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_390
+msgid "นางรอง"
+msgstr "นางรอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_455
+msgid "วังน้อย"
+msgstr "วังน้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_336
+msgid "เมืองนครสวรรค์"
+msgstr "เมืองนครสวรรค์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_744
+msgid "บ้านแพ้ว"
+msgstr "บ้านแพ้ว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_630
+msgid "บ้านหมี่"
+msgstr "บ้านหมี่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_550
+msgid "เมืองมุกดาหาร"
+msgstr "เมืองมุกดาหาร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_510
+msgid "ชะอำ"
+msgstr "ชะอำ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_7
+msgid "จันทบุรี"
+msgstr "จันทบุรี"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_28
+msgid "ปทุมธานี"
+msgstr "ปทุมธานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_800
+msgid "ดอนสัก"
+msgstr "ดอนสัก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_560
+msgid "ปาย"
+msgstr "ปาย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_489
+msgid "บางมูลนาก"
+msgstr "บางมูลนาก"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_5
+msgid "กำแพงเพชร"
+msgstr "กำแพงเพชร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_641
+msgid "ปากชม"
+msgstr "ปากชม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_311
+msgid "สีดา"
+msgstr "สีดา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_521
+msgid "ศรีเทพ"
+msgstr "ศรีเทพ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_479
+msgid "ตะโหมด"
+msgstr "ตะโหมด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_338
+msgid "โกรกพระ"
+msgstr "โกรกพระ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_339
+msgid "ชุมแสง"
+msgstr "ชุมแสง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_12
+msgid "ชุมพร"
+msgstr "ชุมพร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_251
+msgid "บ้านตาก"
+msgstr "บ้านตาก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_729
+msgid "ท่าแพ"
+msgstr "ท่าแพ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_239
+msgid "วังวิเศษ"
+msgstr "วังวิเศษ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_217
+msgid "แม่แจ่ม"
+msgstr "แม่แจ่ม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_597
+msgid "อาจสามารถ"
+msgstr "อาจสามารถ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_850
+msgid "นาวัง"
+msgstr "นาวัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_319
+msgid "ทุ่งใหญ่"
+msgstr "ทุ่งใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_277
+msgid "เรณูนคร"
+msgstr "เรณูนคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_526
+msgid "เมืองแพร่"
+msgstr "เมืองแพร่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_299
+msgid "พิมาย"
+msgstr "พิมาย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_571
+msgid "มหาชนะชัย"
+msgstr "มหาชนะชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_416
+msgid "กุยบุรี"
+msgstr "กุยบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_591
+msgid "เมยวดี"
+msgstr "เมยวดี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_687
+msgid "วังหิน"
+msgstr "วังหิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_205
+msgid "แม่ลาว"
+msgstr "แม่ลาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_590
+msgid "โพนทอง"
+msgstr "โพนทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_435
+msgid "มายอ"
+msgstr "มายอ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_892
+msgid "ฟากท่า"
+msgstr "ฟากท่า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_505
+msgid "วังทอง"
+msgstr "วังทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_667
+msgid "ลี้"
+msgstr "ลี้"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_2cth_province_1
+msgid "เวียงแก่น"
+msgstr "เวียงแก่น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_310
+#: model:cth.district,name:cth.cth_district_335
+#: model:cth.district,name:cth.cth_district_383
+#: model:cth.district,name:cth.cth_district_406
+#: model:cth.district,name:cth.cth_district_766
+msgid "เฉลิมพระเกียรติ"
+msgstr "เฉลิมพระเกียรติ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_50
+msgid "ราชบุรี"
+msgstr "ราชบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_543
+msgid "นาดูน"
+msgstr "นาดูน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_739
+msgid "เมืองสมุทรสงคราม"
+msgstr "เมืองสมุทรสงคราม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_752
+msgid "โคกสูง"
+msgstr "โคกสูง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_89
+msgid "ฆ้องชัย"
+msgstr "ฆ้องชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_788
+msgid "สองพี่น้อง"
+msgstr "สองพี่น้อง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_22
+msgid "บางคอแหลม"
+msgstr "บางคอแหลม"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_72
+msgid "อำนาจเจริญ"
+msgstr "อำนาจเจริญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_142
+msgid "พนมสารคาม"
+msgstr "พนมสารคาม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_502
+msgid "บางกระทุ่ม"
+msgstr "บางกระทุ่ม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_96
+msgid "ปางศิลาทอง"
+msgstr "ปางศิลาทอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_19
+msgid "บางกะปิ"
+msgstr "บางกะปิ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_130
+msgid "นายายอาม"
+msgstr "นายายอาม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_62
+msgid "ท่าม่วง"
+msgstr "ท่าม่วง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_242
+msgid "เมืองตราด"
+msgstr "เมืองตราด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_676
+msgid "โนนคูณ"
+msgstr "โนนคูณ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_323
+msgid "บางขัน"
+msgstr "บางขัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_247
+msgid "แหลมงอบ"
+msgstr "แหลมงอบ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_864
+msgid "ลืออำนาจ"
+msgstr "ลืออำนาจ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_449
+msgid "บางปะอิน"
+msgstr "บางปะอิน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_18
+msgid "บางกอกใหญ่"
+msgstr "บางกอกใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_921
+msgid "สิรินธร"
+msgstr "สิรินธร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_231
+msgid "ฮอด"
+msgstr "ฮอด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_802
+msgid "ท่าชนะ"
+msgstr "ท่าชนะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_197
+msgid "แม่จัน"
+msgstr "แม่จัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_629
+msgid "ท่าหลวง"
+msgstr "ท่าหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_93
+msgid "คลองลาน"
+msgstr "คลองลาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_446
+msgid "บางไทร"
+msgstr "บางไทร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_715
+msgid "นาทวี"
+msgstr "นาทวี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_875
+msgid "บ้านผือ"
+msgstr "บ้านผือ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_522
+msgid "หนองไผ่"
+msgstr "หนองไผ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_221
+msgid "แม่อาย"
+msgstr "แม่อาย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_15
+msgid "ตลิ่งชัน"
+msgstr "ตลิ่งชัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_309
+msgid "ลำทะเมนชัย"
+msgstr "ลำทะเมนชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_618
+msgid "บ้านโป่ง"
+msgstr "บ้านโป่ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_813
+msgid "จอมพระ"
+msgstr "จอมพระ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_664
+msgid "บ้านโฮ่ง"
+msgstr "บ้านโฮ่ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_2cth_province_6
+msgid "ดอยหลวง"
+msgstr "ดอยหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_771
+msgid "พรหมบุรี"
+msgstr "พรหมบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_865
+msgid "เมืองอุดรธานี"
+msgstr "เมืองอุดรธานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_600
+msgid "ทุ่งเขาหลวง"
+msgstr "ทุ่งเขาหลวง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_43
+msgid "มุกดาหาร"
+msgstr "มุกดาหาร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_92
+msgid "คลองขลุง"
+msgstr "คลองขลุง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_144
+msgid "สนามชัยเขต"
+msgstr "สนามชัยเขต"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_347
+msgid "ลาดยาว"
+msgstr "ลาดยาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_605
+msgid "สุขสำราญ"
+msgstr "สุขสำราญ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_6cth_province_1
+msgid "เมืองระนอง"
+msgstr "เมืองระนอง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_407
+msgid "แคนดง"
+msgstr "แคนดง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_174
+msgid "บ้านเขว้า"
+msgstr "บ้านเขว้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_86
+msgid "นาคู"
+msgstr "นาคู"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_482
+msgid "ป่าพะยอม"
+msgstr "ป่าพะยอม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_71
+msgid "ห้วยกระเจา"
+msgstr "ห้วยกระเจา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_913
+msgid "บุณฑริก"
+msgstr "บุณฑริก"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_61
+msgid "สมุทรสาคร"
+msgstr "สมุทรสาคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_561
+msgid "แม่ลาน้อย"
+msgstr "แม่ลาน้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_404
+msgid "ห้วยราช"
+msgstr "ห้วยราช"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_136
+msgid "เมืองฉะเชิงเทรา"
+msgstr "เมืองฉะเชิงเทรา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_620
+msgid "โพธาราม"
+msgstr "โพธาราม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_127
+msgid "แก่งหางแมว"
+msgstr "แก่งหางแมว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_897
+msgid "ลานสัก"
+msgstr "ลานสัก"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_29
+msgid "ประจวบคีรีขันธ์"
+msgstr "ประจวบคีรีขันธ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_637
+msgid "ด่านซ้าย"
+msgstr "ด่านซ้าย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_554
+msgid "นิคมคำสร้อย"
+msgstr "นิคมคำสร้อย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_195
+msgid "ป่าแดด"
+msgstr "ป่าแดด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_183
+msgid "ท่าแซะ"
+msgstr "ท่าแซะ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_634
+msgid "หนองม่วง"
+msgstr "หนองม่วง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_695
+msgid "คำตากล้า"
+msgstr "คำตากล้า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_821
+msgid "สนม"
+msgstr "สนม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_728
+msgid "ควนโดน"
+msgstr "ควนโดน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_515
+msgid "เมืองเพชรบูรณ์"
+msgstr "เมืองเพชรบูรณ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_727
+msgid "ควนกาหลง"
+msgstr "ควนกาหลง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_816
+msgid "บัวเชด"
+msgstr "บัวเชด"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_24
+msgid "นนทบุรี"
+msgstr "นนทบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_764
+msgid "หนองโดน"
+msgstr "หนองโดน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_408
+msgid "เมืองปทุมธานี"
+msgstr "เมืองปทุมธานี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_99
+msgid "บึงสามัคคี"
+msgstr "บึงสามัคคี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_493
+msgid "วังทรายพูน"
+msgstr "วังทรายพูน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_789
+msgid "สามชุก"
+msgstr "สามชุก"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_503
+msgid "บางระกำ"
+msgstr "บางระกำ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_445
+msgid "บางซ้าย"
+msgstr "บางซ้าย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_458
+msgid "เมืองพะเยา"
+msgstr "เมืองพะเยา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_775
+msgid "คีรีมาศ"
+msgstr "คีรีมาศ"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_281
+msgid "เมืองนครราชสีมา"
+msgstr "เมืองนครราชสีมา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_613
+msgid "นิคมพัฒนา"
+msgstr "นิคมพัฒนา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_185
+msgid "ปะทิว"
+msgstr "ปะทิว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_812
+msgid "กาบเชิง"
+msgstr "กาบเชิง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_923
+msgid "นาตาล"
+msgstr "นาตาล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_84
+msgid "ห้วยผึ้ง"
+msgstr "ห้วยผึ้ง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_115
+msgid "ภูผาม่าน"
+msgstr "ภูผาม่าน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_260
+msgid "ปากพลี"
+msgstr "ปากพลี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_688
+msgid "ศรีรัตนะ"
+msgstr "ศรีรัตนะ"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_21
+msgid "นครราชสีมา"
+msgstr "นครราชสีมา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_665
+msgid "ป่าซาง"
+msgstr "ป่าซาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_303
+msgid "เสิงสาง"
+msgstr "เสิงสาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_523
+msgid "หล่มเก่า"
+msgstr "หล่มเก่า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_46
+msgid "ดินแดง"
+msgstr "ดินแดง"
+
+#. module: cth
+#: model:cth.province,name:cth.cth_province_38
+msgid "เพชรบุรี"
+msgstr "เพชรบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_677
+msgid "บึงบูรพ์"
+msgstr "บึงบูรพ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_237
+msgid "สิเกา"
+msgstr "สิเกา"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_514
+msgid "หนองหญ้าปล้อง"
+msgstr "หนองหญ้าปล้อง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_267
+msgid "พุทธมณฑล"
+msgstr "พุทธมณฑล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_887
+msgid "ทองแสนขัน"
+msgstr "ทองแสนขัน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_436
+msgid "ไม้แก่น"
+msgstr "ไม้แก่น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_114
+msgid "ภูเวียง"
+msgstr "ภูเวียง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_737
+msgid "พระสมุทรเจดีย์"
+msgstr "พระสมุทรเจดีย์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_552
+msgid "ดงหลวง"
+msgstr "ดงหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_520
+msgid "วิเชียรบุรี"
+msgstr "วิเชียรบุรี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_365
+msgid "ศรีสาคร"
+msgstr "ศรีสาคร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_232
+msgid "เมืองตรัง"
+msgstr "เมืองตรัง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_604
+msgid "ละอุ่น"
+msgstr "ละอุ่น"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_402
+msgid "หนองกี่"
+msgstr "หนองกี่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_914
+msgid "พิบูลมังสาหาร"
+msgstr "พิบูลมังสาหาร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_735
+msgid "บางพลี"
+msgstr "บางพลี"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_42
+msgid "หนองแขม"
+msgstr "หนองแขม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_280
+msgid "นาทม"
+msgstr "นาทม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_212
+msgid "ดอยเต่า"
+msgstr "ดอยเต่า"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_422
+msgid "สามร้อยยอด"
+msgstr "สามร้อยยอด"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_891
+msgid "พิชัย"
+msgstr "พิชัย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_603
+msgid "กะเปอร์"
+msgstr "กะเปอร์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_583
+msgid "จตุรพักตร์พิมาน"
+msgstr "จตุรพักตร์พิมาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_592
+msgid "เมืองสรวง"
+msgstr "เมืองสรวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_882
+msgid "หนองหาน"
+msgstr "หนองหาน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_518
+msgid "น้ำหนาว"
+msgstr "น้ำหนาว"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_762
+msgid "หนองแค"
+msgstr "หนองแค"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_486
+msgid "เมืองพิจิตร"
+msgstr "เมืองพิจิตร"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_852
+msgid "ไชโย"
+msgstr "ไชโย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_10
+msgid "คลองเตย"
+msgstr "คลองเตย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_261
+msgid "องครักษ์"
+msgstr "องครักษ์"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_245
+msgid "คลองใหญ่"
+msgstr "คลองใหญ่"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_193
+msgid "เชียงแสน"
+msgstr "เชียงแสน"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_535
+msgid "กะทู้"
+msgstr "กะทู้"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_908
+msgid "ตระการพืชผล"
+msgstr "ตระการพืชผล"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_282
+msgid "แก้งสนามนาง"
+msgstr "แก้งสนามนาง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_444
+msgid "นครหลวง"
+msgstr "นครหลวง"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_504
+msgid "พรหมพิราม"
+msgstr "พรหมพิราม"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_589
+msgid "โพนทราย"
+msgstr "โพนทราย"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_548
+msgid "ยางสีสุราช"
+msgstr "ยางสีสุราช"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_817
+msgid "ปราสาท"
+msgstr "ปราสาท"
+
+#. module: cth
+#: model:cth.district,name:0
+#: model:cth.district,name:cth.cth_district_638
+msgid "ท่าลี่"
+msgstr "ท่าลี่"
+

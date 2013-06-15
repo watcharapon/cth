@@ -1,0 +1,3 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"access_cth_province","access_cth_province","model_cth_province",,1,1,1,1
+"access_cth_district","access_cth_district","model_cth_district",,1,1,1,1

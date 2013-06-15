@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data>
+
+<record id="view_cht_province_form" model="ir.ui.view">
+    <field name="name">cth.province.form</field>
+    <field name="model">cth.province</field>
+    <field name="arch" type="xml">
+        <form string="Province" version="7.0">
+        <sheet>
+            <div class="oe_title">                                                                                                        
+                <h2>
+                    <label for="name" string="Name" class="oe_edit_only"/>
+                    <field name="name" required="True" placeholder="Province.."/>
+                </h2>
+            </div>
+        </sheet>
+        </form>
+    </field>
+</record>
+
+<record model="ir.actions.act_window" id="act_province">
+    <field name="name">Provinces</field>
+    <field name="res_model">cth.province</field>
+    <field name="view_type">form</field>
+    <field name="view_mode">tree,form</field>
+</record>
+
+<record id="view_cht_district_form" model="ir.ui.view">
+    <field name="name">cth.district.form</field>
+    <field name="model">cth.district</field>
+    <field name="arch" type="xml">
+        <form string="District" version="7.0">
+        <sheet>
+            <div class="oe_title">                                                                                                        
+                <h2>
+                    <label for="name" string="Name" class="oe_edit_only"/>
+                    <field name="name" required="True" placeholder="District.."/>
+                </h2>
+                    <label for="province_ids" class="oe_edit_only"/>                                                                              
+                    <h3>
+                        <field name="province_ids" placeholder="Province.." required="True"/>
+                    </h3>
+            </div>
+        </sheet>
+        </form>
+    </field>
+</record>
+
+<record id="view_cht_district_tree" model="ir.ui.view">
+    <field name="name">cth.district.tree</field>
+    <field name="model">cth.district</field>
+    <field name="arch" type="xml">
+        <tree string="Districts">
+            <field name="name"/>
+            <field name="province_ids"/>
+        </tree>
+    </field>
+</record>
+
+<record model="ir.actions.act_window" id="act_district">
+    <field name="name">Districts</field>
+    <field name="res_model">cth.district</field>
+    <field name="view_type">form</field>
+    <field name="view_mode">tree,form</field>
+</record>
+
+
+<record id="cth_view_partner_form" model="ir.ui.view">
+    <field name="name">cth.view.partner.form</field>
+    <field name="model">res.partner</field>
+    <field name="inherit_id" ref="base.view_partner_form"/>
+    <field name="arch" type="xml">
+        <field name="street2" position="after">
+            <field name="province_id" placeholder="Province.."/>
+            <field name="district_ids" placeholder="District.." domain="[('province_ids', '=', province_id)]"/>
+        </field>
+    </field>
+</record>
+
+
+<menuitem id="menu_province" parent="base.menu_config_address_book" action="act_province" sequence="5"/>
+<menuitem id="menu_district" parent="base.menu_config_address_book" action="act_district" sequence="6"/>
+
+
+</data>
+</openerp>
