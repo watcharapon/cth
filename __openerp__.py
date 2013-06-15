@@ -2,6 +2,7 @@
     'name': 'CTH',
     'version': '1.0',
     'sequence': 14,
+    'summary': 'customize view',
     'description': """
             Need to add province & district in partner address \n
             The master data can see in \n
